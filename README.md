@@ -1,1 +1,1 @@
-https://freckdance.github.io/react_1.3.5/
+https://freckdance.github.io/react_1.3.6/
