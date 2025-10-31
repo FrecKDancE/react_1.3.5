@@ -13,5 +13,5 @@ export default defineConfig({
     globals: true,
     environment: 'jsdom',
   },
-  base: '/react_1.3.5',
+  base: '/react_1.3.6',
 });
